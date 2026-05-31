@@ -198,7 +198,7 @@ Módulo de protección del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-GoogleLoginBackend/
+BackendAPIGoogle/
 │
 ├── src/
 │   ├── main/
@@ -256,7 +256,7 @@ fecha_registro
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/GoogleLoginBackend.git
+git clone https://github.com/isairey/BackendAPIGoogle.git
 ```
 
 ---
@@ -264,7 +264,7 @@ git clone https://github.com/isairey/GoogleLoginBackend.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd GoogleLoginBackend
+cd BackendAPIGoogle
 ```
 
 ---
